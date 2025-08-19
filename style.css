@@ -1,1 +1,46 @@
+body {
+    background-image: url("https://lh3.googleusercontent.com/proxy/dYBKiSdtbps93tGzHgjLBwgHRQo2NPkcNuNaSOmf2yFZjihHlRAa6saaifNe6wcvXiDjo0HwrX_nNl3Re1fjdlFXXuqSQJ35yMp0PlQ5cwGEl5Xl3mj4iPv4Ysa1qFhzNt_imlp6xfoPE5yFvNe1QEzgcsqrLfxBk-J_KA=s680-w680-h510-rw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
+
+
+span{
+    font-family: sans-serif;
+    font-style: italic;
+    color: cornflowerblue;
+    padding-bottom: 20px;
+}
+
+div{
+    background-color: #ffffff;
+    width: 300px;
+    align-content: center;
+    margin: 0 auto;
+    height: 500px;
+    border-radius: 30px;
+    border-width: 2;
+    border-color: black;
+    border-style:solid;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #aaaaaa
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #aaaaaa
+}
+
+button{
+    background-color: #aaaaaa;
+    border-color: #aaaaaa;
+    width: 200px;
+    height: 25px;
+    border-radius: 20px;
+    
+}
